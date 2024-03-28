@@ -3,7 +3,7 @@
 - feel free to use this as model, even the css file has a reset, and media queries mobile first. 
 
 ## Screenshots
-![App Screenshot](screenshot/SCR-20240328-nnyf.png)
+![App Screenshot](screenshot/SCR-20240328-nqkx.png)
 
 ## Links
 If you want to see the final product, in the project directory, you can run:
