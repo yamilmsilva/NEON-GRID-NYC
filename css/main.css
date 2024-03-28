@@ -70,7 +70,8 @@ body{
 
 .footer{
     grid-area: footer;
-    background-color: #8c96a0;
+    background-color: #000000;
+    color: #EBF400;
 }
 
 .grid-item{
