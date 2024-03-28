@@ -3,11 +3,11 @@
 - feel free to use this as model, even the css file has a reset, and media queries mobile first. 
 
 ## Screenshots
-![App Screenshot](screenshot/SCR-20240328-ngkg.png)
+![App Screenshot](screenshot/SCR-20240328-nnyf.png)
 
 ## Links
 If you want to see the final product, in the project directory, you can run:
-- [Live 🔗]https://candifynyc.netlify.app/
+- [Live 🔗]https://neongridnyc.netlify.app/
 
 ## My process
 
