@@ -40,8 +40,8 @@ body{
     grid-template: 
         "header"  60px
         "navbar"  auto
-        "main"    auto
-        "sidebar" auto
+        "aside"     auto
+        "article"    auto
         "footer"  60px;
 
 }
@@ -57,17 +57,17 @@ body{
     background-color: #F72798;
 }
 
+.aside{
+    grid-area: sidebar;
+    background-color: #EBF400;
+}
+
 .main{
     grid-area: main;
     background-color: #F57D1F;
 }
 
-.sidebar{
-    grid-area: sidebar;
-    background-color: #EBF400;
-}
-
-.footer{
+.article{
     grid-area: footer;
     background-color: #000000;
     color: #EBF400;
@@ -87,7 +87,7 @@ body{
     grid-template: 
             "header header"   100px
             "navbar  navbar"  50px
-            "sidebar main"    auto
+            "aside article"    auto
             "footer  footer"  100px / 
             200px    auto;
     }      
@@ -100,7 +100,7 @@ body{
 
         grid-template:
         "header header header" 80px
-        "navbar main sidebar" auto
+        "navbar aside article" auto
         "footer footer footer" 80px/
          200px auto 200px;
         }
