@@ -48,7 +48,7 @@ body{
 
 .header{
     grid-area: header;
-    background-color: red;
+    background-color: #000000;
     color: #EBF400;
 }
 
