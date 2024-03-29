@@ -58,16 +58,16 @@ body{
 }
 
 .aside{
-    grid-area: sidebar;
+    grid-area: aside;
     background-color: #EBF400;
 }
 
-.main{
-    grid-area: main;
+.article{
+    grid-area: article;
     background-color: #F57D1F;
 }
 
-.article{
+.footer{
     grid-area: footer;
     background-color: #000000;
     color: #EBF400;
